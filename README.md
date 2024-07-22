@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enmanokatana" alt="enmanokatana" /></a> </p>
 
-- 🔭 I’m currently working on **Cryptographie Algorithmes**
+- 🔭 I’m currently working on **Web Application for Students**
 
-- 🌱 I’m currently learning **C# .NET**
+- 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on **Desktop Application**
+- 👯 I’m looking to collaborate on **Web Apps**
 
 - 👨‍💻 All of my projects are available at [HayaouiMouad.com](HayaouiMouad.com)
 
